@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("68030250_ตรวจสอบอายุ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a625da1130503df68b04aa01255477afd6275ac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75dca65f636620f9786ff46cef5d4f131c1f2a7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("68030250_ตรวจสอบอายุ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("68030250_ตรวจสอบอายุ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

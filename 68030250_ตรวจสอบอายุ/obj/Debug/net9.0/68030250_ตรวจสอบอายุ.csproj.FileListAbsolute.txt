@@ -1,0 +1,15 @@
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\bin\Debug\net9.0\68030250_ตรวจสอบอายุ.exe
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\bin\Debug\net9.0\68030250_ตรวจสอบอายุ.deps.json
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\bin\Debug\net9.0\68030250_ตรวจสอบอายุ.runtimeconfig.json
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\bin\Debug\net9.0\68030250_ตรวจสอบอายุ.dll
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\bin\Debug\net9.0\68030250_ตรวจสอบอายุ.pdb
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.GeneratedMSBuildEditorConfig.editorconfig
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.AssemblyInfoInputs.cache
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.AssemblyInfo.cs
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.csproj.CoreCompileInputs.cache
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.sourcelink.json
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.dll
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\refint\68030250_ตรวจสอบอายุ.dll
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.pdb
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\68030250_ตรวจสอบอายุ.genruntimeconfig.cache
+D:\68030520_Homework\Homework-1\68030250_ตรวจสอบอายุ\obj\Debug\net9.0\ref\68030250_ตรวจสอบอายุ.dll

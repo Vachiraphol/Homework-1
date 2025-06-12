@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "68030250_ตรวจสอบอายุ/1.0.0": {
+        "runtime": {
+          "68030250_ตรวจสอบอายุ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "68030250_ตรวจสอบอายุ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
